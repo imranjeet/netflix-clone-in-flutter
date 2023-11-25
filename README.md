@@ -1,6 +1,16 @@
-# netflix_clone
 
-A new Flutter project.
+<h1 align="center">
+    <br>
+    Netflix Clone Flutter
+</h1>
+
+### Some Screenshots
+![Screenshot](https://raw.githubusercontent.com/imranjeet/netflix-clone-in-flutter/main/assets/1.jpg)
+![Screenshot](https://raw.githubusercontent.com/imranjeet/netflix-clone-in-flutter/main/assets/2.jpg)
+![Screenshot](https://raw.githubusercontent.com/imranjeet/netflix-clone-in-flutter/main/assets/3.jpg)
+
+  
+</p>
 
 ## Getting Started
 
