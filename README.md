@@ -5,9 +5,9 @@
 </h1>
 
 ### Some Screenshots
-![Screenshot](https://raw.githubusercontent.com/imranjeet/netflix-clone-in-flutter/main/assets/1.jpg)
-![Screenshot](https://raw.githubusercontent.com/imranjeet/netflix-clone-in-flutter/main/assets/2.jpg)
-![Screenshot](https://raw.githubusercontent.com/imranjeet/netflix-clone-in-flutter/main/assets/3.jpg)
+![1](https://github.com/imranjeet/netflix-clone-in-flutter/assets/48348342/da28a78c-edfd-4cd7-afbe-f1aa88aa3b57)
+![2](https://github.com/imranjeet/netflix-clone-in-flutter/assets/48348342/4bf665ff-02b7-41e5-930c-4a14f7a454cc)
+![3](https://github.com/imranjeet/netflix-clone-in-flutter/assets/48348342/879f5088-84d9-4997-b492-6331be555f54)
 
   
 </p>
